@@ -1,1 +1,1 @@
-# sql-learn-ca
+# SQL Learn CA
